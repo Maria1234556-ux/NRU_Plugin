@@ -1,0 +1,10 @@
+[general]
+name=NRU Generator
+qgisMinimumVersion=3.0
+description=Génération automatique de la Note de Renseignements Urbanistiques
+version=1.0
+author=EHTP 2025/2026
+email=fadil@ehtp.ac.ma
+about=Plugin pour générer des NRU à partir des données SIG
+tracker=
+repository=
